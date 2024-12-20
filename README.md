@@ -8,3 +8,4 @@ The five main components of SCM include planning, sourcing, manufacturing, distr
 Effective supply chain management is key to increasing profitability and operational efficiency. With the right strategies in place, companies can reduce costs, boost customer loyalty, and consistently deliver high-quality products on time. The growing demand for SCM professionals underscores its significance in driving business success and managing complex, global supply networks. By incorporating tools like data visualization and dashboards into SCM, businesses can make informed, data-driven decisions that optimize their processes and elevate customer satisfaction.
 
 Author has created data visualization using Tableau.https://public.tableau.com/app/profile/sandika.sukhdeve4124/vizzes
+
